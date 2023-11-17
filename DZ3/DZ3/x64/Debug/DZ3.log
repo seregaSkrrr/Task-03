@@ -1,0 +1,8 @@
+﻿  DZ3.cpp
+C:\Users\kravt\source\repos\DZ3\DZ3\Functions.h(72,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DZ3.cpp")
+  
+C:\Users\kravt\source\repos\DZ3\DZ3\Functions.h(74,30): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DZ3.cpp")
+  
+  DZ3.vcxproj -> C:\Users\kravt\source\repos\DZ3\x64\Debug\DZ3.exe
